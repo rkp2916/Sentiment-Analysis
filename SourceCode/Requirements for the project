@@ -1,0 +1,24 @@
+Requirements for the project:
+- python 2.7.13
+
+Python packages:
+- numpy
+- scipy
+- pandas
+- matplotlib
+- basemap
+- geopy
+- pymongo
+- twitter
+- tweepy
+- nltk
+- scikit-learn 
+
+Database:
+- MongoDB
+
+I have also put my mongodb dump files in a folder sourcecode.
+
+
+
+
