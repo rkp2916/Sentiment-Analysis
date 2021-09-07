@@ -1,5 +1,4 @@
-Hi everyone, 
-This is Rushi Pandya and my project here is Sentiment Analysis on twitter Data.
+my project here is Sentiment Analysis on twitter Data.
 There are two parts of the project:
 1. Data collection, Cleaning and Data Classification
 
